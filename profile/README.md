@@ -1,6 +1,6 @@
 # Food Packaging Forum Foundation
 
-Welcome to the official GitHub of the [Food Packaging Forum Foundation](https://www.foodpackagingforum.org/), a scientific non-profit organization dedicated to the research and communication about the chemicals on food contact materials.
+Welcome to the official GitHub of the [Food Packaging Forum Foundation](https://www.foodpackagingforum.org/), a scientific non-profit organization dedicated to the research and communication about the chemicals in food contact materials.
 
 ## Our Mission
 
