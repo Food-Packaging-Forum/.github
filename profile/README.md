@@ -21,7 +21,7 @@ Our **public repository** useful-resources contains functions and information fo
 
 ### ... in the world
 - **[Research and Publications:](https://www.foodpackagingforum.org/resources/publications/peer-reviewed-papers)** Access our research on food packaging materials, chemicals of concern, and their implications for health and environment.
-- **Collaborations:** We partner with academic, industry, and environmental organizations to advance knowledge on food contact chemicals and materials
+- **Collaborations:** We partner with academic, industry, and civil society organizations to advance knowledge on food contact chemicals and materials
 - **Education and Outreach:** Engaging with the community through [workshops](https://www.foodpackagingforum.org/events/categories/workshops), [webinars](https://www.foodpackagingforum.org/events/categories/presentations), and [informative resources](https://www.foodpackagingforum.org/packaging-fact-sheets) to promote awareness and policy change.
 
 
