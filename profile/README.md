@@ -9,14 +9,15 @@ The Food Packaging Forum enables stakeholders to make better decisions by applyi
 ## What We Do
 ### ... on GitHub
 
+Our public repository **useful-resources** contains functions and information for easier research processes, especially pertaining to chemicals. 
+- _ExcelToEndNote_function.ipynb_ can convert a spreadsheet into an EndNote compatible .txt file
+- there are also links to useful websites and documents
+
 The products of our work are publicly available (see below) so GitHub is primarily a way to store software and data processing files for internal use. If you have questions about our projects, please email *info @ fp-forum.org*. 
 - [Food Contact Chemicals Database (FCCdb)](https://www.foodpackagingforum.org/fccdb)
 - [Migrating and Extractable Food Contact Chemicals (FCCmigex)](https://www.foodpackagingforum.org/fccmigex)
 - [Brand and Retailer Initiatives Database (BRID)](https://www.foodpackagingforum.org/brand-retailer-initiatives)
 - [Understanding Packaging Scorecard](https://upscorecard.org/)
-
-Our **public repository** useful-resources contains functions and information for easier research processes, especially pertaining to chemicals. 
-- _ExcelToEndNote_function.ipynb_ can convert a spreadsheet into an EndNote compatible .txt file
 
 
 ### ... in the world
