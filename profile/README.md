@@ -15,7 +15,7 @@ The products of our work are publicly available (see below) so GitHub is primari
 - [Brand and Retailer Initiatives Database (BRID)](https://www.foodpackagingforum.org/brand-retailer-initiatives)
 - [Understanding Packaging Scorecard](https://upscorecard.org/)
 
-Our **public repository** contains useful functions and information for research processes, especially pertaining to chemicals. 
+Our **public repository** useful-resources contains functions and information for easier research processes, especially pertaining to chemicals. 
 - _ExcelToEndNote_function.ipynb_ can convert a spreadsheet into an EndNote compatible .txt file
 
 
