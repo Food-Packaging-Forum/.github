@@ -13,9 +13,12 @@ Our public repository **useful-resources** contains functions and information fo
 - _ExcelToEndNote_function.ipynb_ can convert a spreadsheet into an EndNote compatible .txt file
 - there are also links to useful websites and documents
 
-The products of our work are publicly available (see below) so GitHub is primarily a way to store software and data processing files for internal use. If you have questions about our projects, please email *info @ fp-forum.org*. 
+The products of our work are publicly available (see below) so GitHub is primarily a way to store software and data processing files for internal use. If you have questions about our projects, please email [info@fp-forum.org](mailto:example@domain.com). 
 - [Food Contact Chemicals Database (FCCdb)](https://www.foodpackagingforum.org/fccdb)
 - [Migrating and Extractable Food Contact Chemicals (FCCmigex)](https://www.foodpackagingforum.org/fccmigex)
+- [Database on Food Contact Chemicals Monitored in Humans (FCChumon)](https://foodpackagingforum.org/resources/databases/fcchumon)
+- [Food Contact Chemicals Priority (FCCprio) List](https://foodpackagingforum.org/resources/databases/fccprio)
+- [Database of Micro- and Nanoplastics from Food Contact Materials (FCMiNo)](https://foodpackagingforum.org/resources/databases/mino)
 - [Brand and Retailer Initiatives Database (BRID)](https://www.foodpackagingforum.org/brand-retailer-initiatives)
 - [Understanding Packaging Scorecard](https://upscorecard.org/)
 
@@ -31,21 +34,9 @@ The products of our work are publicly available (see below) so GitHub is primari
 - **[Website](https://www.foodpackagingforum.org/):** Learn more about our work and access a wealth of resources.
 - **[Newsletter](https://www.foodpackagingforum.org/newsletter):** Subscribe to our newsletter for monthly insights and highlights.
 - **[LinkedIn](https://www.linkedin.com/company/food-packaging-forum/):** Follow us for the latest news, research findings, and updates.
-- Also: **[Twitter/X](https://twitter.com/fpffoundation) | [BlueSky](https://bsky.app/profile/fpffoundation.bsky.social) | [Threads](https://www.threads.net/@fpf_foundation)**
+- Also: **[Twitter/X](https://twitter.com/fpffoundation) | [BlueSky](https://bsky.app/profile/foodpackagingforum.org) | [Threads](https://www.threads.net/@fpf_foundation)**
 
 
 ## Support Us
 
 Your support enables us to continue our research and outreach efforts. Consider [donating](https://www.foodpackagingforum.org/support-us) to help us advance our mission for a healthier, more sustainable world.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
